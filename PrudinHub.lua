@@ -29,7 +29,7 @@ local TextButton3 = Instance.new("TextButton")
 local TextButton_2 = Instance.new("TextButton")
 
 PrudinHub.Name = "PrudinHub"
-PrudinHub.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+PrudinHub.Parent = game.CoreGui
 PrudinHub.ResetOnSpawn = false
 
 Notifications.Name = "Notifications"
